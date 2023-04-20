@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Cartier';
+    src: url('CartierRegular.woff2') format('woff2'),
+        url('CartierRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cartier';
+    src: url('CartierRegular.woff2') format('woff2'),
+        url('CartierRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    outline: 0;
+}
+
+#footer {
+    display: flex;
+    padding: 20px;
+    font-weight: 100;
+    justify-content: center;
+
+
+}
+.f{
+    padding: 60px;
+}
